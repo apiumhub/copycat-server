@@ -25,9 +25,7 @@ Useful data:
 
 apt-get install -g nodejs
 
-npm install express
-
-npm install body-parser
+npm install
 
 #Run server:
 
